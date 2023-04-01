@@ -2,4 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 OK, I've created a new branch called change_alice, so I can start to modify the Alice.txt.
 We will make additional changes to Alice.txt before merge it cack to master.
 We're now done editing Alic.txt.
+I am adding this line to Alice.txt while on change_alice branch.
 
